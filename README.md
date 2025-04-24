@@ -6,6 +6,10 @@ Um simples resumo do uso/propósito do projeto.
 
 Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
 
+## Link para a aplicação (LIVE)
+
+https://telemarketing-ebac-1.onrender.com
+
 ## Utilização
 
 ### Dependencias

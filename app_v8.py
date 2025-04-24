@@ -13,7 +13,9 @@ st.set_page_config(
     layout = 'wide',
     initial_sidebar_state='expanded'
 )
-st.write('# Telemarketing analisys')
+
+
+st.write('# Análise dos dados de Telemarketing')
 st.markdown('---')
 # Barra lateral
 image = 'Bank-Branding.jpg'
